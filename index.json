@@ -1,0 +1,18 @@
+[
+  {
+    "id": "zanderdingus-1",
+    "title": "Zanderdingus",
+    "description": "Modpack de la comunidad xd Launcher — NeoForge 1.21.1",
+    "icon_url": "https://raw.githubusercontent.com/Saav15/xd-launcher-community/main/icons/zanderdingus.png",
+    "mrpack_url": "https://drive.google.com/uc?export=download&confirm=t&id=1uv4m4U-w-XfsTWJbTQqSv5qFKm5VZwre",
+    "mc_version": "1.21.1",
+    "loader": "neoforge",
+    "loader_version": "latest",
+    "version": "1.0.0",
+    "author": "Saav15",
+    "categories": ["adventure", "tech"],
+    "downloads": 0,
+    "follows": 0,
+    "source_url": "https://github.com/Saav15/xd-launcher-community"
+  }
+]
